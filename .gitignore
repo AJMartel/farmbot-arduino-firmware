@@ -35,3 +35,6 @@
 Debug.h
 _build
 bin
+
+src.ino.mega.hex
+src.ino.with_bootloader.mega.hex

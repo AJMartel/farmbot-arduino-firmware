@@ -16,7 +16,7 @@
 #include "Config.h"
 #include <stdio.h>
 #include <stdlib.h>
-#include <TMC2130Stepper.h>
+#include "TMC2130Stepper.h"
 
 /*
 #if defined(FARMDUINO_EXP_V20)
